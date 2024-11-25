@@ -6,7 +6,7 @@ Run the following commands:
 ```pip install PySide6```
 
 ### Install FAISS for vector similarity search
-```pip install faiss-cpu  # Use 'faiss-gpu' if you want GPU support and have a compatible setup```
+```pip install faiss-cpu```
 
 ### Install SentenceTransformers for text embeddings
 ```pip install sentence-transformers```
