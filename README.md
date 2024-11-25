@@ -2,6 +2,9 @@
 
 Run the following commands:
 
+```sudo apt-get update```
+```sudo apt-get install -y libgl1-mesa-glx```
+
 ### Install PySide6 for Qt Widgets and Core functionality
 ```pip install PySide6```
 
